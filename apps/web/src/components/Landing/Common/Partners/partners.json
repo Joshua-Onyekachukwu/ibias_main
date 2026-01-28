@@ -1,0 +1,47 @@
+{
+  "description": "Integrated with the platforms you use every day",
+  "partners": [
+    {
+      "id": 1,
+      "src": "/images/partners/partner1.svg",
+      "alt": "shopify",
+      "width": 145,
+      "height": 35
+    },
+    {
+      "id": 2,
+      "src": "/images/partners/partner2.svg",
+      "alt": "woocommerce",
+      "width": 145,
+      "height": 35
+    },
+    {
+      "id": 3,
+      "src": "/images/partners/partner3.svg",
+      "alt": "google-ads",
+      "width": 145,
+      "height": 35
+    },
+    {
+      "id": 4,
+      "src": "/images/partners/partner4.svg",
+      "alt": "meta-ads",
+      "width": 145,
+      "height": 35
+    },
+    {
+      "id": 5,
+      "src": "/images/partners/partner5.svg",
+      "alt": "klaviyo",
+      "width": 145,
+      "height": 35
+    },
+    {
+      "id": 6,
+      "src": "/images/partners/partner6.svg",
+      "alt": "stripe",
+      "width": 145,
+      "height": 35
+    }
+  ]
+}

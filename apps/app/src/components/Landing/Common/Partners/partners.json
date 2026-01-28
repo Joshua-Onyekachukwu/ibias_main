@@ -1,0 +1,35 @@
+{
+  "description": "Trezo is the platform behind some of the fastest-growing online brands.",
+  "partners": [
+    {
+      "id": 1,
+      "src": "/images/partners/partner1.svg",
+      "alt": "Partner 1 logo"
+    },
+    {
+      "id": 2,
+      "src": "/images/partners/partner2.svg",
+      "alt": "Partner 2 logo"
+    },
+    {
+      "id": 3,
+      "src": "/images/partners/partner3.svg",
+      "alt": "Partner 3 logo"
+    },
+    {
+      "id": 4,
+      "src": "/images/partners/partner4.svg",
+      "alt": "Partner 4 logo"
+    },
+    {
+      "id": 5,
+      "src": "/images/partners/partner5.svg",
+      "alt": "Partner 5 logo"
+    },
+    {
+      "id": 6,
+      "src": "/images/partners/partner6.svg",
+      "alt": "Partner 6 logo"
+    }
+  ]
+}
