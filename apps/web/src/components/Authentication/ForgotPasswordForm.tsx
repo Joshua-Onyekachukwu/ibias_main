@@ -50,7 +50,7 @@ const ForgotPasswordForm: React.FC = () => {
                                     Forgot your password?
                                 </h1>
                                 <p className="font-medium leading-[1.5] lg:text-md text-[#445164] dark:text-gray-400">
-                                    Enter the email address you used when you joined and we'll
+                                    Enter the email address you used when you joined and we&apos;ll
                                     send you instructions to reset your password.
                                 </p>
                             </div>

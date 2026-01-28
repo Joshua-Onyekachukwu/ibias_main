@@ -172,7 +172,7 @@ const SignInForm: React.FC = () => {
                                 </button>
 
                                 <p className="mt-[15px] md:mt-[20px]">
-                                    Don't have an account?{" "}
+                                    Don&apos;t have an account?{" "}
                                     <Link
                                         href="/auth/signup"
                                         className="text-primary-500 transition-all font-semibold hover:underline"
